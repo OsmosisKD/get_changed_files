@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/OsmosisKD/get_changed_files#readme",
   "dependencies": {
-    "@actions/core": "^1.2.4",
-    "@actions/github": "^4.0.0"
+    "@actions/core": "^1.2.2",
+    "@actions/github": "^2.1.0"
   }
 }
