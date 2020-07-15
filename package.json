@@ -1,0 +1,23 @@
+{
+  "name": "get_changed_files",
+  "version": "1.0.0",
+  "description": "For use in github actions - returns a list of all modified files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmosisKD/get_changed_files.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/OsmosisKD/get_changed_files/issues"
+  },
+  "homepage": "https://github.com/OsmosisKD/get_changed_files#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  }
+}
